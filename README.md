@@ -12,8 +12,8 @@ After sacrificing their younger brother to the Goblin King, Mikey and Brand foun
 
 From high above, the macabre skeletal grin of large black granite rocks in an open field confirmed they had the right island. They landed in the field, west of a white house, with a boarded front door. Nearby stood a mailbox.
 
-## Organization
+## Directory Structure
 
 Currently, the entire adventure is formatted via markdown [here](prison-of-pop-culture-peril.md).
 
-The maps directory contains scans of the maps.
+**Maps:** Scans of the maps.
