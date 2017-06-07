@@ -1,4 +1,4 @@
-![goonies](images/goonies2.jpg)
+![goonies](images/willys-revenge.png)
 
 # One-Eyed Willy's Prison of Pop Culture Peril
 
