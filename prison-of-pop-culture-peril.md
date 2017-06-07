@@ -1,14 +1,14 @@
 # One-Eyed Willy's Prison of Pop Culture Peril
 
-> The past few years have not been kind to the Walsh family and their friends. Mikey and Brand were on a high after recovering the jewels from One-Eyed Willy's grotto. However, Mr. Walsh's assertion that the jewels were valuable beyond compare turned out to be very, very wrong. Made of materials unknown to earth, no jeweler would purchase them. Because of that, the Walsh's could only watch helplessly as their house was bulldozed by the Perkins clan to make room for Troy's Herbalife outreach center. The Walsh family moved from scenic Astoria to the rather less nice city of San Dimas, where Mikey and Brand got mixed up in cult activity.
+The past few years have not been kind to the Walsh family and their friends. Mikey and Brand were on a high after recovering the jewels from One-Eyed Willy's grotto. However, Mr. Walsh's assertion that the jewels were valuable beyond compare turned out to be very, very wrong. Made of materials unknown to earth, no jeweler would purchase them. Because of that, the Walsh's could only watch helplessly as their house was bulldozed by the Perkins clan to make room for Troy's Herbalife outreach center. The Walsh family moved from scenic Astoria to the rather less nice city of San Dimas, where Mikey and Brand got mixed up in cult activity.
 
-> While the jewels were not worth much by earthly standards, they possessed weird cosmic power. The seven people who handled the crystals extensively began to experience changes. Their bodies transformed from manifestations of eldritch energy. They gained strange and forbidden knowledge. Twisted dreams haunted both sleep as well as waking hours. The descent into the surreal was rapid and ceaseless. Most disturbing, The Goonies discovered that the movies and music they consumed became bizarrely manifest in the real world - and it was difficult to tell fact from fantasy. After some ewoks burned Andy's father alive, the group decided something must be done.
+While the jewels were not worth much by earthly standards, they possessed weird cosmic power. The seven people who handled the crystals extensively began to experience changes. Their bodies transformed from manifestations of eldritch energy. They gained strange and forbidden knowledge. Twisted dreams haunted both sleep as well as waking hours. The descent into the surreal was rapid and ceaseless. Most disturbing, The Goonies discovered that the movies and music they consumed became bizarrely manifest in the real world - and it was difficult to tell fact from fantasy. After some ewoks burned Andy's father alive, the group decided something must be done.
 
-> Through communication with forces beyond the ken of mortal man, Mikey and Brand discovered that none other than One-Eyed Willy was behind these changes. And to escape his grasp, they would need to confront him in his island lair, find his phylactery, and destroy it.
+Through communication with forces beyond the ken of mortal man, Mikey and Brand discovered that none other than One-Eyed Willy was behind these changes. And to escape his grasp, they would need to confront him in his island lair, find his phylactery, and destroy it.
 
-> After sacrificing their younger brother to the Goblin King, Mikey and Brand found Willy's lair. It was far out in the Pacific, concealed by space-time distortions. Assembling their now transformed gang of friends, along with a number of wayward youths from the greater Los Angeles area, they secured passage to the island on a migrating Byakhee flock for one final deathcrawl to defeat Willy or die trying.
+After sacrificing their younger brother to the Goblin King, Mikey and Brand found Willy's lair. It was far out in the Pacific, concealed by space-time distortions. Assembling their now transformed gang of friends, along with a number of wayward youths from the greater Los Angeles area, they secured passage to the island on a migrating Byakhee flock for one final deathcrawl to defeat Willy or die trying.
 
-> From high above, the macabre skeletal grin of large black granite rocks in an open field confirmed they had the right island. They landed in the field, west of a white house, with a boarded front door. Nearby stood a mailbox.
+From high above, the macabre skeletal grin of large black granite rocks in an open field confirmed they had the right island. They landed in the field, west of a white house, with a boarded front door. Nearby stood a mailbox.
 
 # Characters
 
@@ -18,13 +18,26 @@ It doesn't matter too much who takes what sort of character. Although, having at
 * Richard "Data" Wang - Level 5 Thief
 * Brandon "Brand" Walsh - Level 5 Dwarf
 * Clark "Mouth" Deveraux - Level 5 Cleric (Patron: Gozer the Gozerian)
-* TBD: Recommended Spells
+    * Recommended Spells: (First) Darkness, Detect Evil, Food of the Gods, Holy Sanctuary, Second Sight, Word of Command, (Second) Banish, Binding, Curse, Divine Symbol, Stinging Stone, (Third) Animate Dead, Bolt from the Blue
 * Lawrence "Chunk" Cohen - Level 5 Halfling
 * Stephanie "Stef" Steinbrenner - Level 5 Wizard (Patron: Jareth the Goblin King)
-* TBD: Recommended Spells
+    * Recommended Spells: (First) Chill Touch, Enlarge, Find Familiar, Invoke Patron, Feather Fall, (Second) Locate Object, Scorching Ray, (Third) Lightning Bolt
 * Michael "Mikey" Walsh - Level 5 Elf
 
 And many zero level teenagers serving as fodder! I tend to give out four for each player, along with their one main character. I recommend using Teens out of Time from **Purple Sorcerer**. https://purplesorcerer.com/create_party.php
+
+## Find Familiar
+
+When running this, I've allowed Find Familiar to work in a much shorter time interval than normal. Roll for the type of familiar:
+
+1. Face Hugger
+2. Mogwai
+3. 'Bit' (From Tron)
+4. Ewok
+
+## Minion Rule
+
+In order to keep the "main" characters alive for as long as possible, I allow players to assign damage to zero level minions instead of their characters. Normally, this results in the death of the minion. But that's what they're for!
 
 ## Gozer the Gozerian
 
@@ -32,7 +45,9 @@ Gozer is a patron for Mouth.
 
 ## Jareth the Goblin King
 
-Jareth is Stef's patron.
+Jareth is Stef's patron. I use Sezrekan as the basis for this patron. However, if invoke patron is successful, I also let Stef beseech Jareth for help finding an item instead of aid with spells.
+
+Basically, any successful result can be used to gain a clue.
 
 # Wandering Monsters
 
@@ -214,19 +229,23 @@ These are fairly standard zombies from DCC.
 
 ## One-Eyed Willy The Lich
 
-One-Eyed Willy is modeled off of Acererak from Tomb of Horrors. It is hard to hit unless the weapons used are coated in ectoplasm or the characters are ghost like. It's a flying green lich skull.
+One-Eyed Willy is modeled off of Acererak from Tomb of Horrors. It is hard to hit unless the weapons used are coated in ectoplasm or the characters are ghost like. It's a flying green pirate lich skull.
+
+Ectoplasm coated weapons grant a +6 to hit Willy. Ghost like characters, those that have gone through Willy's demon mouth in the main hall, get the same bonus (the bonuses do not stack).
 
 * Init: +2
-* Draining Touch: +8 (3d6 Strength / Agility / Stamina)
-* Horrifying: Will DC 15 or attack -4, want to run away
+* Draining Touch: +8 (3d6 damage to either Strength / Agility / Stamina)
+* Horrifying: Will DC 15 or attack -4, feel tremendous dread
 * Eye Blast: +0 or sucked into eye, fort save to avoid 
-* AC: 12
+* AC: 20
 * HD: 3d12
 * HP: 22
 * Spd: 25
 * Fort: +2
 * Ref: +4
 * Will: +6
+
+Each round, Willy can do Draining Touch and Eye Blast. If Eye Blast is successful, not only is the target gone for good, but Willy heals d6 hp of damage. Let the player choose which attributes draining touch affects. They can divide up the damage.
 
 # Locations
 
@@ -285,9 +304,10 @@ Ganondorf's Lair has criss crossing walkways navigating around lava. On the far 
 ## Kitchen
 
 There is a **glass bottle** here and a **brown sack**. There is also some **moldy food**.
+
 ## Living Room
 
-There is a trophy case here, with a number of slots that look like trophies belong here. There are labels where each trophy goes. Only a few of these are essential to defeating Willy, but a number of them are very useful.
+There is a trophy case here, with a number of slots that look like trophies belong here. There are labels where each trophy goes. Only the record is essential to defeating Willy, but quite a few of these are very useful. Short capsule descriptions are provided here. More in-depth descriptions are in the Artifacts section.
 
 If the characters find one of these items, a ghostly version of it appears in the trophy case, showing them how much progress they must make to find them all.
 
@@ -308,15 +328,37 @@ In the attic is a long **length of rope** and a **nasty looking knife**. There i
 
 It looks like a fire place is here, but it's completely bricked up. In front of the fireplace is a multi-colored dance floor and a disco ball.
 
+There is a dj booth facing the dance floor. It looks like it should hold a record player, but it is currently empty. If they're able to rig up a contraption to play the record from Abe's Hall, the fireplace opens up with a rumble.
+
+The Fratelli Zombies and One-Eyed Willy emerge from the darkness to the sounds of Dead or Alive's You Spin Me Right Round. The final battle begins!
+
 ## Main Hall
 
-The main hall has lots of images of movies and bands from the 1980s adorning the walls. The ceiling is very high, and can't be seen very well at all from ground level.
+The main hall has lots of images of movies and bands from the 1980s adorning the walls. The images morph and twist as the characters investigate them. The hall reflects the pop culture imagery in the character's heads (as does the entire island). The ceiling is very high, and can't be seen very well at all from ground level.
 
-There is a blue neon line going along the ground here. Up on the ceiling, out of site, is a different line of purple. Following the blue neon line leads to more traps.
+There is a blue neon line going along the ground here. It is indicated on the map. This line is misleading. If followed it leads over various pit traps. The **pit traps** each require a DC 20 Reflex save to avoid. Or some other clever means.
 
-At the end of this hall is the Willy poltergeist face. Inside the wide open mouth is static, as if from a television. If a character goes through the static, they find themselves teleported to Slimer's Lair.
+Up on the ceiling, out of sight, is a different line of purple. Following the purple line is safe!
+
+At the end of this hall is the Willy poltergeist face. Inside the wide open mouth is static, as if from a television. If a character goes through the static, they find themselves teleported to Slimer's Lair. This is a play on the classic Tomb of Horrors puzzle. However, in this case, there is a benefit to entering its maw! See the Slimer's Lair description below.
+
+So many people know about this trap that I felt the need to tweak it.
 
 To the right and left are doorways with white mist floating in them. The mist doorways have colored gems along them: blue, yellow, and red. Only touching both yellow and red along the purple line successfully opens the portal that leads to the music hall. When this is done, the mist turns orange and may be entered. In any other case, they are transported to the Gremlin Hall.
+
+Note that only the misty passage on the left (at the end of the purple line on the cieling) is the correct one! Going into the right portal, even after turning it orange, will result in getting teleported to Gremlin Hall.
+
+### First Pit Trap
+
+The first pit trap is 20' deep. A face hugger lurks in the bottom.
+
+### Second Pit Trap
+
+The second pit trap is 30' deep. There is a secret panel in the side about halfway up that leads to the trap door in the bottom of the Gremlin Room.
+
+### Third Pit Trap
+
+The third pit trap is 20' deep. There is a secret door along the wall in the bottom that leads to a passage to the floor in Slimer's Lair. This is another way to Slimer's Lair if no one goes through Willy's mouth. This is also the way out of Slimer's Lair if someone does!
 
 ## Slimer's Lair
 
@@ -332,11 +374,11 @@ Begin counting. They have 10 seconds to get the mogwai out of the way of the wat
 
 The mogwai are also very hungry and will try to eat any food the characters have. This is, of course, a bad idea, since the mogwai will turn into gremlins.
 
-In the bottom of this chamber is a trap door which the water will slowly drain into. It heads to a tunnel which goes to the main hall.
+In the bottom of this chamber is a trap door which the water will slowly drain into. It heads to a tunnel which goes to the main hall. This will quickly fill with water, meaning the characters must swim.
 
 ## Left Round Trap
 
-If they head down this tunnel, Rick Astley's "Never Gonna Give You Up" starts playing and 10 face huggers pour down from the cieling.
+If they head down this tunnel, Rick Astley's "Never Gonna Give You Up" starts playing loudly and 10 face huggers pour down from the cieling.
 
 The rick rolling requires a DC 20 Will save or they lose -2 AC and 3 points of Wisdom.
 
@@ -351,37 +393,51 @@ The numbers are:
 * South Wall: 21
 * West Wall: 6
 
-The correct order for the levers is 6, 12, 21, 24. Or West, North, South, East.
+The correct order for the levers is 6, 12, 21, 24. Or West, North, South, East. These numbers correspond to the letters for FLUX. They can also get lucky and just do them in ascending order.
 
-If solved, a floor tile opens with the flux capacitor.
+Doing them in any other order results in a random character getting hit for d8 lightning damage. Then the levers reset.
+
+If solved, a floor tile opens with the flux capacitor. Additionally, the passage to the Warp Hall opens.
 
 ## Warp Hall
 
-At one end of this hall is KIT, the car from Knight Rider. Although, KIT has no engine. But it still says hi to Mikey if he's alive!
+At one end of this hall is KIT, the car from Knight Rider. Although, KIT has no engine. But it still says hi to Mikey if he's alive! Additionally, KIT is outfitted with the calendar date/time display from Back to the Future. It is currently sent to the current date time (October 23, 1987).
 
-Along the way, there is a trap door in the floor. This falls above to the cieling. The slide can be used to generate speed for the car.
+There is a trap door in the floor of the hall. This trap door is a warp zone that opens into the ceiling ten feet further down the passage. This is similar to the sort of thing that happens in the video game Portal.
 
-On the wall is a lightning bolt button.
+The idea here is that the slide can be used to generate speed for the car, by placing it between the ceiling and the floor. The car will go faster and faster and faster. If energy is supplied to it as it gets going fast enough (88 mph), it will warp back in time.
+
+On the far wall is a big red button. Pressing it blasts a lightning bolt along the length of the hall. Anyone in the way must make a DC 20 Fortitude save or take d8 damage. This can be used to power the time travel device.
+
+The most interesting question: how will the players slow down the car if they travel backward / forward in time? Jumping out of a car going 88 mph should probably require (at least) a DC 20 Reflex save or suffer d8 damage.
+
+Don't worry too much about the time space continuum weirdness, unless you think of something humorous. Finding other versions of yourselves shouldn't result in everyone warping away (despite the obvious paradox). Instead, the players might be able to have two copies of characters to battle Willy with!
+
+More copies might be difficult, given that the car will probably be moving along the track if the go forward / back in time, so putting another one on the track might be a problem. It might require a cocktail napkin and a pen to work it all out.
 
 ## Tron Room
 
 Ahead is a large glass floor, with strange rings within it.
 
-There is a speak and spell here, sitting on the ground. When grasped, it says "You Will Die" and the lights turn out. The neon rings turn brigh blue, and ET comes down on the other ring. He is dressed in Tron gear. Suddenly, a battle ball is thrown off the top wall and comes screaming down.
+There is a speak and spell here, sitting on the ground. When grasped, it says "You Will Die" and the lights turn out. The neon rings turn brigh blue, and ET the extra terrestial comes down on the other ring. He is dressed in Tron gear. Suddenly, a battle ball is thrown off the top wall and comes screaming down.
 
-This is played as a dexterity game. I use two circles roughly 12" in diameter, at opposite ends of a table. It works better with a longer table. Within each circle, draw three concentric rings.
+This is played as a dexterity game. I use two circles roughly 12" in diameter, at opposite ends of a table. It works better with a longer table. Within each circle, draw three concentric rings. All characters should be placed somewhere within the circle.
 
-To play the battle ball mini-game, each side rolls a d20 at the circle across from them. Roll once for ET and once for each main character.
+To play the battle ball mini-game, each side rolls a large novelty sized d20 at the circle across from them. Roll once for ET and once for each main character.
 
-Add your ranged "to-hit" to the result if it lands in a ring. Then the opposing side rolls to "catch" the ball by making a reflex save against the difficulty of the attack, but only if they are adjacent! If they succeed, they move into that ring and throw. If they fail, the ring disappears and any characters on it must make a reflex save or fall to their death.
+Add your ranged "to-hit" to the result if it lands in a ring. Then the opposing side rolls to "catch" the ball by making a reflex save against the difficulty of the attack, but only if they are adjacent to the ring it lands on! If they succeed, they move into that ring and throw. If they fail, the ring disappears and any characters on it must make a DC10 reflex save or fall to their death.
 
-ET adds +10 to-hit and +3 for reflex saves. This is a good time to burn luck!!!
+Now is a good time to use the "swap a minion for a character" rule! ET adds +10 to-hit and +3 for reflex saves. This is also good time to burn luck! It's also a good idea to burn luck if a player gets it in the ring in order to make ET's save more difficult.
+
+If the dice lands on a ring that's missing (already taken out), it will randomly hit a different ring. The first time I played this little dexterity game, we tried to hit specific rings. But the circles were too small and the dice too inaccurate, so it too forever! This rule at least changes things so that any time it lands in the circle it will hit somewhere.
 
 ## Abe Froman Hall
 
-Sloth is trapped here, high in a cage. In front of him is Abe Froman, the sausage golem of Chicago. The sausage golem attacks as soon as the characters enter.
+After defeating ET, a door opens on the far end of the chamber. Although it looks like there is no floor, there is an invisible one. Characters can use sand or something similar to find it.
 
-Sloth has the single "You Spin Me Right Round" on him, which can be used to open the fireplace.
+Sloth is trapped here, high in a cage dangling from the ceiling. In front of him is Abe Froman, the sausage golem of Chicago. The sausage golem attacks as soon as the characters enter. The sausage golem sits on a very large throne that reads "Abe From: Sausage Golem of Chicago".
+
+Sloth has the single "You Spin Me Right Round" on him in a backpack, which can be used to open the fireplace. He will hand this to Chunk when freed.
 
 ## One-Eyed Willy's Lair
 
@@ -393,19 +449,19 @@ These are items that can be found during the adventure, and potential uses for t
 
 ## Golden Egg
 
-If they fry it sunny side up and eat it, it gives the person three more dice worth of hit points.
+If they fry it sunny side up and eat it, it gives the character three more dice worth of hit points. These can be above and beyond the normal maximum.
 
 ## Link's Boomerang
 
-Allows multi-attack, attack all opponents in area.
+Allows multi-attack, attack all opponents in area. Treat as a +2 ranged weapon that does d8 damage. Allow attack rolls against every opponent within sight.
 
 ## Vinyl Record (Right Round)
 
-This record contains a hidden message. It tells them to use the ectoplasm from slimer to help beat One Eyed Willy. Of course, playing it isn't so easy.
+Playing this record in the dance hall opens the passage to Willy's lair.
 
 ## Speak and Spell
 
-This functions as a charm. You put in what you want the target to do, and they must make a DC 15 Will Save or follow the instruction.
+This functions as a charm. You put in what you want the target to do, and they must make a DC 15 Will Save or follow a simple instruction. Treat it like the Command spell. This even works on zombies! The only character it doesn't work on is Willy.
 
 ## Ectoplasm
 
@@ -413,8 +469,8 @@ This allows One-Eyed Willy to be hit much easier. It's an offensive weapon again
 
 ## Face Hugger Sword
 
-This sword lights up when face huggers or aliens are around. Or when one is about to burst forth.
+This sword lights up when face huggers or aliens are around. Or when one is about to burst forth. It also emits a "blip" sound that echoes how far away aliens are.
 
 ## Flux Capacitor
 
-TBD
+This can be used to get Back in Time!
