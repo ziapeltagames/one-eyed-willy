@@ -16,4 +16,4 @@ From high above, the macabre skeletal grin of large black granite rocks in an op
 
 Currently, the entire adventure is formatted via markdown [here](prison-of-pop-culture-peril.md).
 
-**Maps:** Scans of the maps.
+**Maps:** Scans of the maps [maps](maps).
