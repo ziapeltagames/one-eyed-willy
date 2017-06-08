@@ -249,6 +249,8 @@ Each round, Willy can do Draining Touch and Eye Blast. If Eye Blast is successfu
 
 # Locations
 
+![above-ground](maps/above_ground.png)
+
 ## Open Field
 
 The byakhees drop the characters off in a field. There is a mailbox here. A bluejay is on the mailbox, eyeing the characters suspiciously. Eventually, the bird flies away toward the forest behind the house. The bluejay is a clue that something is in the trees.
