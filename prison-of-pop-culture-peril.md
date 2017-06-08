@@ -334,6 +334,8 @@ There is a dj booth facing the dance floor. It looks like it should hold a recor
 
 The Fratelli Zombies and One-Eyed Willy emerge from the darkness to the sounds of Dead or Alive's You Spin Me Right Round. The final battle begins!
 
+![below-ground](maps/below_ground.png)
+
 ## Main Hall
 
 The main hall has lots of images of movies and bands from the 1980s adorning the walls. The images morph and twist as the characters investigate them. The hall reflects the pop culture imagery in the character's heads (as does the entire island). The ceiling is very high, and can't be seen very well at all from ground level.
